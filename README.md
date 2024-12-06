@@ -21,13 +21,4 @@ Automating structural health monitoring with **Terrestrial Laser Scanning (TLS)*
 
 ---
 
-## 📂 Project Structure
-```plaintext
-.
-├── data/               # Raw and processed TLS data
-├── src/                # Core scripts for analysis and visualization
-├── notebooks/          # Jupyter notebooks for experiments
-├── models/             # Pretrained machine learning models
-├── results/            # Deformation graphs and metrics
-├── README.md           # Project documentation
-└── LICENSE             # License details
+
